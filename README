@@ -1,0 +1,17 @@
+Sparker5 nginx_uwsgi
+Used to link nginx and webpy
+
+Written by Sparker5 team
+Version: 1.0
+Http://sparker5.com
+
+License: MIT
+Http://www.opensource.org/licenses/mit-license.php
+
+Usage:
+    1:  import nginx_uwsgi to your webpy app file
+    2:  reset the SERVER_PORT, FOOT_PRINTS_PATH and ERROR_LOG_PATH in this file as you want
+    3:  setup your nginx
+    4:  run the webpy app
+
+See more help: http://blog.sparker5.com/index.php/archives/48
